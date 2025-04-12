@@ -39,5 +39,12 @@ A dynamic array-based stack implementation that:
 ## How to Run
 
 1. Ensure you have Python 3 installed.
-2. Run the script:
+2. Run the script: `python main.py`
+3. View the results in the generated `stack_output.txt` file.
+
+## Output Format
+Each function's output is written in a labeled section, showing the recursive and iterative results for selected inputs.
+
+## Notes
+- The stack resizes dynamically, ensuring it can handle arbitrary input sizes efficiently.
 
